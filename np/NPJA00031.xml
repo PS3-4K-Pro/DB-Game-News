@@ -1,0 +1,16 @@
+<nsx ver="1.0" rev="54" lt-id="145" anno="max-age=99" min-sys-ver="">
+	<spc id="36890" rep="t" multi="o" anno="">
+		<mtrl id="1310309227" mname="WipEout® HD™ - JP" from="2007-01-01T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2100-12-31T23:59:00.000Z" anno="emergency=1">
+			<name/>
+			<owner/>
+			<desc>WipEout® HD™
+			The online mode of this game has been unofficially revived!</desc>
+			<url type="1">http://tmdb.np.dl.playstation.net/tmdb/NPJA00031_00_0386A718528A24D5267E62BF9F30157E52FB06CA/ICON0.PNG</url>
+			<data name="psone_emulated_network.txt" type="120">Tm90aWNlIQoKLSBUaGUgb25saW5lIG1vZGUgb2YgdGhpcyBnYW1lIGhhcyBiZWVuIHVub2ZmaWNpYWxseSByZXZpdmVkLgotIFRvIHVzZSB0aGlzIHNlcnZlciBnbyB0byAoR2FtZSkgPiAoRmlsZSBNYW5hZ2VyKSA+IChPbmxpbmUgR2FtZSBTZXZlcikgIGFuZCB0aGVuIHNlbGVjdCBbUFMgT25saW5lIE5ldHdvcmsgRW11bGF0ZWRdLg==</data>
+			<target type="u">psgm:install?contentid=DUMMY&amp;url=http://github.com/LuanTeles/Packages/releases/download/Homebrews/Notice.pkg</target>
+			<target type="u">psgm:play?id=NPJA00031</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
+	</spc>
+</nsx>
