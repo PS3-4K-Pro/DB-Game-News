@@ -5,21 +5,23 @@ Custom Game News support for PS3™ 4K Pro.
 
 # What is it?
 After launching a game and returning to the XMB™, the system checks for news related to the title ID, and if found, it will be displayed in the "Recently Played" section within the What's New screen instead of just showing the game icon. 
-  
-#Supported Games
+
+![image](https://user-images.githubusercontent.com/74815634/149490572-b8fe2147-1404-4c48-b03d-b4d475211b0d.png)
+![image](https://user-images.githubusercontent.com/74815634/149490559-8080500a-d157-4e70-be87-73976033913f.png)
+
+# Supported Games
 The following games are currently supported, a notice to the user that the online mode has been revived using custom servers is shown.
   
-|TITLE NAME
-|-----------|
-| Calling All Cars | 
-| Dark Souls™ | 
-| Demon's Souls | 
-| Killzone®2 | 
-| Metal Gear Solid 4™ | 
-| MotorStorm™ | 
-| Playstation® Home | 
-| Ratchet: Deadlocked™ (Gladiator) |
-| Warhawk™ | 
-| WipEout® HD™ | 
+| TITLE NAME | CUSTOM SERVER
+|-----------| --------------
+| Calling All Cars | PS Online Emulated Network™ 
+| Demon's Souls | The ArchStones
+| Killzone®2 | PS Online Emulated Network™
+| Metal Gear Solid 4™ | Save MGO™
+| MotorStorm™ | PS Online Emulated Network™ and PS Rewired™
+| Playstation® Home | PS Online Emulated Network™
+| Ratchet: Deadlocked™ (Gladiator) | PS Online Emulated Network™
+| Warhawk™ | PS Online Emulated Network™
+| WipEout® HD™ | PS Online Emulated Network™
  
 </div>
