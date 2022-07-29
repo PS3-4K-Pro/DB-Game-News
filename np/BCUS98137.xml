@@ -7,7 +7,7 @@
 			The online mode of this game has been unofficially revived!</desc>
 			<url type="1">http://tmdb.np.dl.playstation.net/tmdb/BCUS98137_00_C46548592E6307DA4BBD4917560ED17D20C33E3C/ICON0.PNG</url>
 			<data name="psone_emulated_network.txt" type="120">Tm90aWNlIQoKLSBUaGUgb25saW5lIG1vZGUgb2YgdGhpcyBnYW1lIGhhcyBiZWVuIHVub2ZmaWNpYWxseSByZXZpdmVkLgotIFRvIHVzZSB0aGlzIHNlcnZlciBnbyB0byAoR2FtZSkgPiAoRmlsZSBNYW5hZ2VyKSA+IChPbmxpbmUgR2FtZSBTZXZlcikgIGFuZCB0aGVuIHNlbGVjdCBbUFMgT25saW5lIE5ldHdvcmsgRW11bGF0ZWRdLg==</data>
-			<target type="u">psgm:install?contentid=DUMMY&amp;url=http://github.com/LuanTeles/Packages/releases/download/Homebrews/Notice.pkg</target>
+			<target type="u">psgm:install?contentid=DUMMY&amp;url=http://github.com/PS3-4K-Pro/Packages/releases/download/Homebrews/Notice.pkg</target>
 			<target type="u">psgm:play?id=BCUS98137</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
