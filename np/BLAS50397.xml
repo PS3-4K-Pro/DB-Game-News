@@ -6,7 +6,7 @@
 			<desc>Dark Souls™
 			The online mode of this game has been unofficially revived!</desc>
 			<data name="the_archstones.txt" type="120">Tm90aWNlIQoKLSBUaGUgb25saW5lIG1vZGUgb2YgdGhpcyBnYW1lIGhhcyBiZWVuIHVub2ZmaWNpYWxseSByZXZpdmVkLgotIFRvIHVzZSB0aGlzIHNlcnZlciBnbyB0byAoR2FtZSkgPiAoRmlsZSBNYW5hZ2VyKSA+IChPbmxpbmUgR2FtZSBTZXZlcikgIGFuZCB0aGVuIHNlbGVjdCBbVGhlIEFyY2hTdG9uZXNdLg==</data>
-			<target type="u">psgm:install?contentid=DUMMY&amp;url=http://github.com/PS3-4K-Pro/Packages/releases/download/Homebrews/Reload_XMB.pkg</target>
+			<target type="u">psgm:install?contentid=CFWPS3-RELOADXM1_00-0000000000000000&amp;url=http://github.com/PS3-4K-Pro/Packages/releases/download/Homebrews/Reload_XMB.pkg</target>
 			<url type="1">http://tmdb.np.dl.playstation.net/tmdb/BLAS50397_00_AAF46C8452C8C4A627B9B49B21E49FFDCBB377CA/ICON0.PNG</url>
 			<target type="u">psgm:play?id=BLAS50397</target>
 			<cntry agelmt="0">all</cntry>

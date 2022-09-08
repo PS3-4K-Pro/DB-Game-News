@@ -7,7 +7,7 @@
 			The online mode of this game has been unofficially revived!</desc>
 			<url type="1">http://tmdb.np.dl.playstation.net/tmdb/BLES00246_00_D5204F0B4D7FFADB15EC4EC0807378DAE26216F3/ICON0.PNG</url>
 			<data name="save_mgo.txt" type="120">Tm90aWNlIQoKLSBUaGUgb25saW5lIG1vZGUgb2YgdGhpcyBnYW1lIGhhcyBiZWVuIHVub2ZmaWNpYWxseSByZXZpdmVkLgotIFRvIHVzZSB0aGlzIHNlcnZlciBnbyB0byAoR2FtZSkgPiAoRmlsZSBNYW5hZ2VyKSA+IChPbmxpbmUgR2FtZSBTZXZlcikgIGFuZCB0aGVuIHNlbGVjdCBbU2F2ZSBNR09dLg==</data>
-			<target type="u">psgm:install?contentid=DUMMY&amp;url=http://github.com/PS3-4K-Pro/Packages/releases/download/Homebrews/Reload_XMB.pkg</target>
+			<target type="u">psgm:install?contentid=CFWPS3-RELOADXM1_00-0000000000000000&amp;url=http://github.com/PS3-4K-Pro/Packages/releases/download/Homebrews/Reload_XMB.pkg</target>
 			<target type="u">psgm:play?id=BLES00246</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
