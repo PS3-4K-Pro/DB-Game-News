@@ -7,7 +7,7 @@
 			The online mode of this game has been unofficially revived!</desc>
 			<url type="1">http://tmdb.np.dl.playstation.net/tmdb/BLUS30109_00_35F82EABB4EE957DCB8A7C4F54DDFC4B0EF5D642/ICON0.PNG</url>
 			<data name="save_mgo.txt" type="120">Tm90aWNlIQoKLSBUaGUgb25saW5lIG1vZGUgb2YgdGhpcyBnYW1lIGhhcyBiZWVuIHVub2ZmaWNpYWxseSByZXZpdmVkLgotIFRvIHVzZSB0aGlzIHNlcnZlciBnbyB0byAoR2FtZSkgPiAoRmlsZSBNYW5hZ2VyKSA+IChPbmxpbmUgR2FtZSBTZXZlcikgIGFuZCB0aGVuIHNlbGVjdCBbU2F2ZSBNR09dLg==</data>
-			<target type="u">psgm:install?contentid=DUMMY&amp;url=http://github.com/PS3-4K-Pro/Packages/releases/download/Homebrews/Notice.pkg</target>
+			<target type="u">psgm:install?contentid=DUMMY&amp;url=http://github.com/PS3-4K-Pro/Packages/releases/download/Homebrews/Reload_XMB.pkg</target>
 			<target type="u">psgm:play?id=BLUS30109</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>

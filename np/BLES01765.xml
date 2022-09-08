@@ -7,7 +7,7 @@
 			The online mode of this game has been unofficially revived!</desc>
 			<url type="1">http://tmdb.np.dl.playstation.net/tmdb/BLES01765_00_F7ED729C75113E64E7CA95DF93C6262C46060E8F/ICON0.PNG</url>
 			<data name="the_archstones.txt" type="120">Tm90aWNlIQoKLSBUaGUgb25saW5lIG1vZGUgb2YgdGhpcyBnYW1lIGhhcyBiZWVuIHVub2ZmaWNpYWxseSByZXZpdmVkLgotIFRvIHVzZSB0aGlzIHNlcnZlciBnbyB0byAoR2FtZSkgPiAoRmlsZSBNYW5hZ2VyKSA+IChPbmxpbmUgR2FtZSBTZXZlcikgIGFuZCB0aGVuIHNlbGVjdCBbVGhlIEFyY2hTdG9uZXNdLg==</data>
-			<target type="u">psgm:install?contentid=DUMMY&amp;url=http://github.com/PS3-4K-Pro/Packages/releases/download/Homebrews/Notice.pkg</target>
+			<target type="u">psgm:install?contentid=DUMMY&amp;url=http://github.com/PS3-4K-Pro/Packages/releases/download/Homebrews/Reload_XMB.pkg</target>
 			<target type="u">psgm:play?id=BLES01765</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
