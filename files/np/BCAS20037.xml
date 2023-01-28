@@ -1,0 +1,59 @@
+<nsx ver="1.0" rev="54" lt-id="145" anno="max-age=99" min-sys-ver="">
+	<spc id="36890" rep="t" multi="o" anno="">
+		<mtrl id="1310309227" mname="Resistance: Fall of Man™ - AS" from="2007-01-01T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2100-12-31T23:59:00.000Z" anno="emergency=1">
+			<name/>
+			<owner/>
+			<desc>Resistance: Fall of Man™
+			The online mode of this game has been unofficially revived!</desc>
+			<url type="1">http://tmdb.np.dl.playstation.net/tmdb/BCAS20003_00_3E7EF3B3815719F0C085AF2E33C3916407BDEE95/ICON0.PNG</url>
+			<data name="psone_emulated_network.txt" type="120">Tm90aWNlIQoKLSBUaGUgb25saW5lIG1vZGUgb2YgdGhpcyBnYW1lIGhhcyBiZWVuIHVub2ZmaWNpYWxseSByZXZpdmVkLgotIFRvIHVzZSB0aGlzIHNlcnZlciBnbyB0byAoR2FtZSkgPiAoRmlsZSBNYW5hZ2VyKSA+IChPbmxpbmUgR2FtZSBTZXZlcikgIGFuZCB0aGVuIHNlbGVjdCBbUFMgT25saW5lIE5ldHdvcmsgRW11bGF0ZWRdLg==</data>
+			<target type="u">psgm:install?contentid=CFWPS3-RELOADXM1_00-0000000000000000&amp;url=http://github.com/PS3-4K-Pro/Packages/releases/download/Homebrews/Reload_XMB.pkg</target>
+			<target type="u">psgm:play?id=BCAS20037</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>1</lang>
+			<lang>2</lang>
+			<lang>3</lang>
+			<lang>4</lang>
+			<lang>5</lang>
+			<lang>6</lang>
+			<lang>7</lang>
+			<lang>8</lang>
+			<lang>10</lang>
+			<lang>11</lang>
+			<lang>12</lang>
+			<lang>13</lang>
+			<lang>14</lang>
+			<lang>15</lang>
+			<lang>16</lang>
+			<lang>17</lang>
+			<lang>18</lang>
+			<lang>19</lang>
+		</mtrl>
+		
+		<mtrl id="1310309227" mname="Resistance: Fall of Man™ - AS" from="2007-01-01T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2100-12-31T23:59:00.000Z" anno="emergency=1">
+			<name/>
+			<owner/>
+			<desc>レジスタンス：人類没落の日
+			The online mode of this game has been unofficially revived!</desc>
+			<url type="1">http://tmdb.np.dl.playstation.net/tmdb/BCAS20003_00_3E7EF3B3815719F0C085AF2E33C3916407BDEE95/ICON0_00.PNG</url>
+			<data name="psone_emulated_network.txt" type="120">Tm90aWNlIQoKLSBUaGUgb25saW5lIG1vZGUgb2YgdGhpcyBnYW1lIGhhcyBiZWVuIHVub2ZmaWNpYWxseSByZXZpdmVkLgotIFRvIHVzZSB0aGlzIHNlcnZlciBnbyB0byAoR2FtZSkgPiAoRmlsZSBNYW5hZ2VyKSA+IChPbmxpbmUgR2FtZSBTZXZlcikgIGFuZCB0aGVuIHNlbGVjdCBbUFMgT25saW5lIE5ldHdvcmsgRW11bGF0ZWRdLg==</data>
+			<target type="u">psgm:install?contentid=CFWPS3-RELOADXM1_00-0000000000000000&amp;url=http://github.com/PS3-4K-Pro/Packages/releases/download/Homebrews/Reload_XMB.pkg</target>
+			<target type="u">psgm:play?id=BCAS20037</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>0</lang>
+		</mtrl>
+		
+		<mtrl id="1310309227" mname="Resistance: Fall of Man™ - AS" from="2007-01-01T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2100-12-31T23:59:00.000Z" anno="emergency=1">
+			<name/>
+			<owner/>
+			<desc>Resistance: 인류몰락의 날
+			The online mode of this game has been unofficially revived!</desc>
+			<url type="1">http://tmdb.np.dl.playstation.net/tmdb/BCAS20003_00_3E7EF3B3815719F0C085AF2E33C3916407BDEE95/ICON0_09.PNG</url>
+			<data name="psone_emulated_network.txt" type="120">Tm90aWNlIQoKLSBUaGUgb25saW5lIG1vZGUgb2YgdGhpcyBnYW1lIGhhcyBiZWVuIHVub2ZmaWNpYWxseSByZXZpdmVkLgotIFRvIHVzZSB0aGlzIHNlcnZlciBnbyB0byAoR2FtZSkgPiAoRmlsZSBNYW5hZ2VyKSA+IChPbmxpbmUgR2FtZSBTZXZlcikgIGFuZCB0aGVuIHNlbGVjdCBbUFMgT25saW5lIE5ldHdvcmsgRW11bGF0ZWRdLg==</data>
+			<target type="u">psgm:install?contentid=CFWPS3-RELOADXM1_00-0000000000000000&amp;url=http://github.com/PS3-4K-Pro/Packages/releases/download/Homebrews/Reload_XMB.pkg</target>
+			<target type="u">psgm:play?id=BCAS20037</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>9</lang>
+		</mtrl>
+	</spc>
+</nsx>

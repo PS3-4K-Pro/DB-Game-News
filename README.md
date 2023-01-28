@@ -14,13 +14,17 @@ The following games are currently supported, a notice to the user that the onlin
   
 | TITLE NAME | CUSTOM SERVER
 |-----------| --------------
-| Calling All Cars | PS Online Emulated Network™ 
-| Demon's Souls | The ArchStones
-| Killzone®2 | PS Online Emulated Network™
+| Calling All Cars™ | PS Online Emulated Network™ 
+| Demon's Souls | The ArchStones™
+| Killzone®2 | PS Online Emulated Network™ and PS Rewired™
 | Metal Gear Solid 4™ | Save MGO™
 | MotorStorm™ | PS Online Emulated Network™ and PS Rewired™
+| MotorStorm™2: Pacific Rift | PS Rewired™
+| NBA®07 HD | PS Rewired™
+| PAIN™ | PS Online Emulated Network™
 | Playstation® Home | PS Online Emulated Network™
 | Ratchet: Deadlocked™ (Gladiator) | PS Online Emulated Network™
+| Resistance™: Fall Of Man | PS Online Emulated Network™
 | Warhawk™ | PS Online Emulated Network™
 | WipEout® HD™ | PS Online Emulated Network™
  

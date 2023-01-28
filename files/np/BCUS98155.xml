@@ -1,0 +1,16 @@
+<nsx ver="1.0" rev="54" lt-id="145" anno="max-age=99" min-sys-ver="">
+	<spc id="36890" rep="t" multi="o" anno="">
+		<mtrl id="1310309227" mname="MOTORSTORM®: PACIFIC RIFT - US" from="2007-01-01T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2100-12-31T23:59:00.000Z" anno="emergency=1">
+			<name/>
+			<owner/>
+			<desc>MOTORSTORM®: PACIFIC RIFT
+			The online mode of this game has been unofficially revived!</desc>
+			<url type="1">http://tmdb.np.dl.playstation.net/tmdb/BCUS98155_00_F9070968A9DD859EDC7CA1F16D9C19EB73E06731/ICON0.PNG</url>
+			<data name="ps_rewired.txt" type="120">Tm90aWNlIQoKLSBUaGUgb25saW5lIG1vZGUgb2YgdGhpcyBnYW1lIGhhcyBiZWVuIHVub2ZmaWNpYWxseSByZXZpdmVkLgotIFRvIHVzZSB0aGlzIHNlcnZlciBnbyB0byAoR2FtZSkgPiAoRmlsZSBNYW5hZ2VyKSA+IChPbmxpbmUgR2FtZSBTZXZlcikgIGFuZCB0aGVuIHNlbGVjdCBbUFMgUmV3aXJlZF0u==</data>
+			<target type="u">psgm:install?contentid=CFWPS3-RELOADXM1_00-0000000000000000&amp;url=http://github.com/PS3-4K-Pro/Packages/releases/download/Homebrews/Reload_XMB.pkg</target>
+			<target type="u">psgm:play?id=BCUS98155</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
+	</spc>
+</nsx>
